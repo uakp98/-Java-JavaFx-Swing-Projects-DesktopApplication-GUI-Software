@@ -1,6 +1,5 @@
-# Java-JavaFx-Swing-Projects-DesktopApplication-GUI-Software
-All projects are based on ☕ Java(Swing.All projects are database(MySql) connected📂 and compatible to run is🖥️ Desktop(with .exe)🖱️.All projects have a Graphical User Interface(GUI)👨🏻‍💻 that user can communicate and understand the application easily).
 # JavaFx-Swing-Projects (GUI Desktop Application/Projects)
+All projects are based on ☕ Java(Swing.All projects are database(MySql) connected📂 and compatible to run is🖥️ Desktop(with .exe)🖱️.All projects have a Graphical User Interface(GUI)👨🏻‍💻 that user can communicate and understand the application easily).
 
 # How to run this project?
 
@@ -25,16 +24,20 @@ Do:- Window->Open Perspective->Other->Java (default)
 
 # ------------------------Realtime Chatbot-----------------------
 
-<img src="./Software img/Chatbot.png" >
+<img src="./image/Chatbot.png" >
+
+# ------------------------Log In Form------------------------
+
+<img src="./image/login.png" > <br>
 
 # ------------------------Calculator------------------------
 
-<img src="./Software img/Calc1.png" > <br>
-<img src="./Software img/Calc2.png" >
+<img src="./image/calculator.png" > <br>
 
+# #Java Software (Swing/JDBC/MySql)
 
-# #Java Software (AWT/Swing/JavaFx/JDBC)
+- [User Registration System](https://github.com/uakp98/Java-JavaFx-Swing-Projects-DesktopApplication-GUI-Software/tree/main/User%20Registration%20System)
 
-- [School Management System Software](https://github.com/soumyadip007/School-Management-System-GUI-Software-Using-Java-Swing-AWT-JDBC-JTatoo-MySql)
+<img src="./image/user_registration.png" > <br>
 
-//- [Java Swing Complete tutorial with example for JavaGuides.net](https://github.com/soumyadip007/Java-Swing-tutorials-and-examples-for-JavaGuides.net)
+/*- [Java Swing Complete tutorial with example for JavaGuides.net](https://github.com/soumyadip007/Java-Swing-tutorials-and-examples-for-JavaGuides.net)*/
