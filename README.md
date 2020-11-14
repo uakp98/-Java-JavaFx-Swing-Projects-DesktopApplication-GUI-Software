@@ -40,4 +40,3 @@ Do:- Window->Open Perspective->Other->Java (default)
 
 <img src="./image/user_registration.png" > <br>
 
-/*- [Java Swing Complete tutorial with example for JavaGuides.net](https://github.com/soumyadip007/Java-Swing-tutorials-and-examples-for-JavaGuides.net)*/
